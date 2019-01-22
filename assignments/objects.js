@@ -99,6 +99,7 @@ console.log(interns[1]["speak"]())
 
 console.log(interns[4]["multiply"](3,4));
 
+
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 
 // ==== Stretch Challenge: Nested Objects and the this keyword ==== 
